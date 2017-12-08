@@ -1,5 +1,6 @@
 <h1> Project: Thinkspace </h1>
 <h2> Ruby on Rails Backend API <h2>
+<h3> Project: Thinkspace provides users with a virtual space to anonymously share their ideas, and discover the ideas of others.</h3>
 
 <p> This repository holds the backend technology used to support the 'Project: Thinkspace' API. <p>
 
