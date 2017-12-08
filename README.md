@@ -5,9 +5,13 @@
 
 <h3> Technical Specs </h3>
  <ul>
-  <li> RoR API <li> 
-  <li> POSTGRESQL Database <li>
+  <li> RoR API </li> 
+  <li> POSTGRESQL Database </li>
+  </ul>
   
   <h3> Useful Endpoints </h3>
    <ul>
-    <li> /ideas <li>
+    <li> /ideas </li>
+  </ul>
+  
+  
